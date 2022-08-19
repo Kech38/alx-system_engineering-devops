@@ -1,9 +1,0 @@
-
-#!/usr/bin/env bash
-# This sript is displaying "Best School" 10 timed using the while loop
-count=1
-while [[ count -le 10 ]];
-do
-echo 'Best School'
-(( count++ ))
-done
