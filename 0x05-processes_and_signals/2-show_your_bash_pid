@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Ascript that displays lines containing the bash word
+# shellcheck disable=SC2009
+# Ignore shellcheck error
+ps auxf | grep "bash"
