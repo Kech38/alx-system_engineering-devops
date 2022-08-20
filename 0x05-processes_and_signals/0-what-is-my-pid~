@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# A sript that displays its own PID
-echo $pidof 0-what-is-my-pid 
